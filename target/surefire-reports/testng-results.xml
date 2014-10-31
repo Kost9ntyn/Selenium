@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="110" started-at="2014-10-24T17:31:07Z" finished-at="2014-10-24T17:31:07Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="110" started-at="2014-10-24T17:31:07Z" finished-at="2014-10-24T17:31:07Z">
+      <class name="Numbers.Prime">
+        <test-method status="PASS" signature="isPrimeTest()[pri:0, instance:Numbers.Prime@53d334a8]" name="isPrimeTest" duration-ms="48" started-at="2014-10-24T20:31:07Z" finished-at="2014-10-24T20:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPrimeTest -->
+      </class> <!-- Numbers.Prime -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
