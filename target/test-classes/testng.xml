@@ -4,6 +4,7 @@
     <test name="Nopackage" >
         <classes>
             <class name="Numbers.Prime" />
+            <class name="ui.StylusSearch"/>
         </classes>
     </test>
 </suite>
